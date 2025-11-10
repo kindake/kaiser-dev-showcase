@@ -8,6 +8,9 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Made with ❤️ by Kaiser Emanuel](https://img.shields.io/badge/Made_with-❤️_by_Kaiser_Emanuel-red)
 
+🌐 **Live Demo:** [kkmaina.onrender.com](https://kkmaina.onrender.com)  
+> ⚠️ Note: The first load may take a few seconds as the app “wakes up” (Render free-tier cold start).
+
 A **Django Channels WebSocket consumer** for managing **real-time tick and candle data** and **live trade results**.  
 This project demonstrates **professional async consumer architecture** suitable for **trading dashboards** and **live-data applications**.
 
