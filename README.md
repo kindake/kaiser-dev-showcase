@@ -186,3 +186,4 @@ If you’d like to see how this architecture can scale or connect to real market
 
 📩 Contact: [kaiserkida@gmail.com](mailto:kaiserkida@gmail.com)  
 🌐 Portfolio / GitHub: [https://github.com/kindake](https://github.com/kindake)
+

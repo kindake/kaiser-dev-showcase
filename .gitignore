@@ -1,23 +1,51 @@
-# Python
+# === Python ===
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+
+# === Virtual Environments ===
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === Databases ===
 *.db
 *.sqlite3
-.env
-venv/
-.env/
+
+# === Logs ===
 *.log
 
-# VSCode / PyCharm
+# === IDEs ===
 .vscode/
 .idea/
 
-# Django
+# === Django Static / Media ===
 /staticfiles/
 media/
 
-# System
+# === Build and Packaging ===
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# === Testing / Coverage ===
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# === System ===
 .DS_Store
 Thumbs.db
+
+# === Cache / Misc ===
+.cache/
+.mypy_cache/
+.ruff_cache/
