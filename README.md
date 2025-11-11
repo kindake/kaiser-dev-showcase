@@ -1,6 +1,6 @@
 # ⚡ Django Channels WebSocket Showcase
 
-> A professional **real-time data streaming demo** built with Django Channels & asyncio — showcasing tick updates, live charting, and task management.
+> A professional **real-time data streaming demo** built with Django Channels & asyncio — showcasing tick updates, live charting, and async task management.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Django](https://img.shields.io/badge/Django-4.2-green)
@@ -8,11 +8,18 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 ![Made with ❤️ by Kaiser Emanuel](https://img.shields.io/badge/Made_with-❤️_by_Kaiser_Emanuel-red)
 
+---
+
 🌐 **Live Demo:** [kkmaina.onrender.com](https://kkmaina.onrender.com)  
-> ⚠️ Note: The first load may take a few seconds as the app “wakes up” (Render free-tier cold start).
+> Experience **real-time chart updates**, **SPA-style navigation**, **theme toggle**, and a **bot simulation dashboard** — all powered by Django Channels.  
+> ⚙️ *Note:* The app may take a few seconds to load on first visit due to Render’s free-tier “cold start.”  
+
+💡 This live demo showcases how **Django Channels** enables a fully asynchronous, real-time trading dashboard — combining **WebSocket-driven backend updates** with a **responsive SPA frontend** for a smooth, professional user experience.
+
+---
 
 A **Django Channels WebSocket consumer** for managing **real-time tick and candle data** and **live trade results**.  
-This project demonstrates **professional async consumer architecture** suitable for **trading dashboards** and **live-data applications**.
+This project demonstrates **clean async consumer architecture** suitable for **trading dashboards** and other **live-data applications**.
 
 ---
 
