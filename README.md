@@ -32,7 +32,10 @@ This project demonstrates **clean async consumer architecture** suitable for **t
 - ⚡ Async task management for streaming data  
 - 🛠 Clean connection lifecycle and task shutdown  
 
-This project serves as a **showcase/demo** for developers to learn how to build **efficient, real-time systems** using Django Channels and asyncio.
+This project serves as a **showcase/demo** for developers to learn how to build **efficient, real-time systems** using Django Channels and asyncio.  
+
+> 💬 This demo is a simplified version of my full trading architecture — built for public viewing and educational purposes.  
+> 🔗 Full system available upon request (private repository).
 
 ---
 
