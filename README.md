@@ -153,11 +153,11 @@ ws.onopen = () => {
 
 *(All GIFs recorded using ShareX at 15 FPS — optimized for smooth playback and small size.)*
 
-Below are short GIF previews showing different real-time features of the project.
+Below is a short visual walkthrough showing the key features of the system.
 
-| Bot Running                             | Theme Toggle | Live Chart                            | Dashboard Navigation               |
-|-----------------------------------------|---------------|---------------------------------------|------------------------------------|
-| ![Bot Running](static/gifs/run_bot.gif) | ![Theme Toggle](static/gifs/theme_t.gif) | ![Live Chart](static/gifs/charts.gif) | ![Navigation](static/gifs/spa.gif) |
+| SPA Navigation (HTMX)                  | Load Bot Workspace                      | Bot Running                            | Live Chart                           | Theme Toggle                         |
+|----------------------------------------|-----------------------------------------|----------------------------------------|--------------------------------------|--------------------------------------|
+| ![SPA Navigation](static/gifs/SPA_HTMX.gif) | ![Load Bot](static/gifs/load_free_bot.gif) | ![Bot Running](static/gifs/run_bot.gif) | ![Live Chart](static/gifs/charts.gif) | ![Theme Toggle](static/gifs/theme_t.gif) |
 
 ---
 
